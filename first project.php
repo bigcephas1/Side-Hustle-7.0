@@ -1,0 +1,2 @@
+$variable="Peter";
+  echo("$variable");
